@@ -1,2 +1,2 @@
-# JavaScript-Project-2
+# Rock Paper Scissors JavaScript
 Rock Paper Scissors Game
